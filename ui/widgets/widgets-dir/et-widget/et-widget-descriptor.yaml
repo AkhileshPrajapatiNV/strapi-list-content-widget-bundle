@@ -1,7 +1,7 @@
 code: et-list-conf
 titles:
   en: List of Contents
-  it: List of Contents
+  it: Lista dei contenuti
 group: free
 customUiPath: et-widget.ftl
 configUi:
